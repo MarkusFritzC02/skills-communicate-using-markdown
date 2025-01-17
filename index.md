@@ -7,3 +7,4 @@ Learned how to make header, commit and push on Git. Understanding git a bit bett
 
 $ git init
 Initialized empty Git repository in /MarkusFritzC02/skills/Projects/recipe-repository/.git/
+String myVar = "Hello, world!";
